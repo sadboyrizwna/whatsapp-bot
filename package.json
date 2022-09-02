@@ -1,5 +1,5 @@
 {
-  "name": "raganork",
+  "name": "Rizwan Ali",
   "version": "1.0.2",
   "description": "Raganork whatsapp bot- Multi device version.",
   "main": "./Raganork/index.js",
@@ -15,8 +15,8 @@
     "bot",
     "multi-device"
   ],
-  "author": "Sourav",
-  "developer": "@souravkl11",
+  "author": "Rizwan Ali",
+  "developer": "Rizwan Ali",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/souravkl11/raganork/issues"
